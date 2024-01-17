@@ -1,4 +1,4 @@
-# AI-tshirt-designer--react-3js
+# AI-tshirt-designer (React, 3js)
 
 Tshirt designer with AI prompt
 
